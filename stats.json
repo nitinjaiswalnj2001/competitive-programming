@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,16 @@
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
     "LeetCode_Contains_Duplicate": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "LeetCode_Majority_Element": true
   },
   "activityHistory": {
-    "2026-09-01": 3
+    "2026-09-01": 4
   },
   "todayProblems": [
     "Two Sum",
     "Contains Duplicate",
-    "Valid Anagram"
+    "Valid Anagram",
+    "Majority Element"
   ]
 }
