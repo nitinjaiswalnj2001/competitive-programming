@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-09-03",
-  "todayCount": 4,
+  "lastSyncDate": "2026-09-07",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -18,16 +18,15 @@
     "LeetCode_Missing_Number": true,
     "LeetCode_Single_Number": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
-    "LeetCode_Find_the_Difference": true
+    "LeetCode_Find_the_Difference": true,
+    "LeetCode_Number_of_Good_Pairs": true
   },
   "activityHistory": {
     "2026-09-01": 4,
-    "2026-09-03": 4
+    "2026-09-03": 4,
+    "2026-09-07": 1
   },
   "todayProblems": [
-    "Missing Number",
-    "Single Number",
-    "Intersection of Two Arrays",
-    "Find the Difference"
+    "Number of Good Pairs"
   ]
 }

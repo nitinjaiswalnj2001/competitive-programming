@@ -8,3 +8,4 @@
 | 6 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 03 Sept 2026 | 11:24 am |
 | 7 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 03 Sept 2026 | 11:31 am |
 | 8 | [Find the Difference](./LeetCode/Easy/Find%20the%20Difference) | [LeetCode](https://leetcode.com/problems/find-the-difference/) | Easy | 03 Sept 2026 | 11:32 am |
+| 9 | [Number of Good Pairs](./LeetCode/Easy/Number%20of%20Good%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | Easy | 07 Sept 2026 | 01:51 pm |
