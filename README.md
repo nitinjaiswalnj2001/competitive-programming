@@ -15,3 +15,4 @@
 | 13 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 07 Sept 2026 | 01:55 pm |
 | 14 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 08 Sept 2026 | 12:58 am |
 | 15 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 08 Sept 2026 | 12:58 am |
+| 16 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 08 Sept 2026 | 12:59 am |
