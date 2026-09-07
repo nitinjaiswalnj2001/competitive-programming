@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -21,16 +21,18 @@
     "LeetCode_Find_the_Difference": true,
     "LeetCode_Number_of_Good_Pairs": true,
     "LeetCode_Richest_Customer_Wealth": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
   },
   "activityHistory": {
     "2026-09-01": 4,
     "2026-09-03": 4,
-    "2026-09-07": 3
+    "2026-09-07": 4
   },
   "todayProblems": [
     "Number of Good Pairs",
     "Richest Customer Wealth",
-    "Move Zeroes"
+    "Move Zeroes",
+    "Remove Duplicates from Sorted Array"
   ]
 }
