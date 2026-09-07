@@ -9,3 +9,4 @@
 | 7 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 03 Sept 2026 | 11:31 am |
 | 8 | [Find the Difference](./LeetCode/Easy/Find%20the%20Difference) | [LeetCode](https://leetcode.com/problems/find-the-difference/) | Easy | 03 Sept 2026 | 11:32 am |
 | 9 | [Number of Good Pairs](./LeetCode/Easy/Number%20of%20Good%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | Easy | 07 Sept 2026 | 01:51 pm |
+| 10 | [Richest Customer Wealth](./LeetCode/Easy/Richest%20Customer%20Wealth) | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | Easy | 07 Sept 2026 | 01:53 pm |

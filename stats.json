@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -19,14 +19,16 @@
     "LeetCode_Single_Number": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Find_the_Difference": true,
-    "LeetCode_Number_of_Good_Pairs": true
+    "LeetCode_Number_of_Good_Pairs": true,
+    "LeetCode_Richest_Customer_Wealth": true
   },
   "activityHistory": {
     "2026-09-01": 4,
     "2026-09-03": 4,
-    "2026-09-07": 1
+    "2026-09-07": 2
   },
   "todayProblems": [
-    "Number of Good Pairs"
+    "Number of Good Pairs",
+    "Richest Customer Wealth"
   ]
 }
