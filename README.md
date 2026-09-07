@@ -12,3 +12,4 @@
 | 10 | [Richest Customer Wealth](./LeetCode/Easy/Richest%20Customer%20Wealth) | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | Easy | 07 Sept 2026 | 01:53 pm |
 | 11 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 07 Sept 2026 | 01:54 pm |
 | 12 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 07 Sept 2026 | 01:54 pm |
+| 13 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 07 Sept 2026 | 01:55 pm |
