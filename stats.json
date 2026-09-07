@@ -1,11 +1,11 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -26,17 +26,19 @@
     "LeetCode_Remove_Element": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Merge_Sorted_Array": true,
-    "LeetCode_Squares_of_a_Sorted_Array": true
+    "LeetCode_Squares_of_a_Sorted_Array": true,
+    "LeetCode_Reverse_String": true
   },
   "activityHistory": {
     "2026-09-01": 4,
     "2026-09-03": 4,
     "2026-09-07": 5,
-    "2026-09-08": 3
+    "2026-09-08": 4
   },
   "todayProblems": [
     "Valid Palindrome",
     "Merge Sorted Array",
-    "Squares of a Sorted Array"
+    "Squares of a Sorted Array",
+    "Reverse String"
   ]
 }
