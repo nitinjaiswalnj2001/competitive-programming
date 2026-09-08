@@ -1,11 +1,11 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -34,20 +34,22 @@
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Ransom_Note": true,
-    "LeetCode_Valid_Palindrome_II": true
+    "LeetCode_Valid_Palindrome_II": true,
+    "LeetCode_Reverse_Words_in_a_String_III": true
   },
   "activityHistory": {
     "2026-09-01": 4,
     "2026-09-03": 4,
     "2026-09-07": 5,
     "2026-09-08": 6,
-    "2026-09-09": 5
+    "2026-09-09": 6
   },
   "todayProblems": [
     "Longest Common Prefix",
     "Length of Last Word",
     "First Unique Character in a String",
     "Ransom Note",
-    "Valid Palindrome II"
+    "Valid Palindrome II",
+    "Reverse Words in a String III"
   ]
 }
