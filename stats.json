@@ -1,11 +1,11 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -30,16 +30,18 @@
     "LeetCode_Reverse_String": true,
     "LeetCode_Is_Subsequence": true,
     "LeetCode_Roman_to_Integer": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_Length_of_Last_Word": true
   },
   "activityHistory": {
     "2026-09-01": 4,
     "2026-09-03": 4,
     "2026-09-07": 5,
     "2026-09-08": 6,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Longest Common Prefix"
+    "Longest Common Prefix",
+    "Length of Last Word"
   ]
 }
