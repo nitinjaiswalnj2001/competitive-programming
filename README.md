@@ -27,3 +27,4 @@
 | 25 | [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | 09 Sept 2026 | 12:31 am |
 | 26 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 10 Sept 2026 | 11:50 am |
 | 27 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 10 Sept 2026 | 06:02 pm |
+| 28 | [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | Easy | 10 Sept 2026 | 06:02 pm |
