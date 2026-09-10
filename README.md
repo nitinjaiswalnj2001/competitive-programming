@@ -25,3 +25,4 @@
 | 23 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 09 Sept 2026 | 12:30 am |
 | 24 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 09 Sept 2026 | 12:30 am |
 | 25 | [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | 09 Sept 2026 | 12:31 am |
+| 26 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 10 Sept 2026 | 11:50 am |
