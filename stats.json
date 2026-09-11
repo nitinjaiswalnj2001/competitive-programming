@@ -1,11 +1,11 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -41,7 +41,8 @@
     "LeetCode_Backspace_String_Compare": true,
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Binary_Search": true,
-    "LeetCode_Sqrt(x)": true
+    "LeetCode_Sqrt(x)": true,
+    "LeetCode_First_Bad_Version": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -50,11 +51,12 @@
     "2026-09-08": 6,
     "2026-09-09": 6,
     "2026-09-10": 3,
-    "2026-09-11": 3
+    "2026-09-11": 4
   },
   "todayProblems": [
     "Search Insert Position",
     "Binary Search",
-    "Sqrt(x)"
+    "Sqrt(x)",
+    "First Bad Version"
   ]
 }
