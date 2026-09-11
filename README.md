@@ -28,3 +28,4 @@
 | 26 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 10 Sept 2026 | 11:50 am |
 | 27 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 10 Sept 2026 | 06:02 pm |
 | 28 | [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | Easy | 10 Sept 2026 | 06:02 pm |
+| 29 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 11 Sept 2026 | 12:36 pm |

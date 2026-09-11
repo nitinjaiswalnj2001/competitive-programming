@@ -1,11 +1,11 @@
 {
-  "totalSolved": 28,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-09-10",
-  "todayCount": 3,
+  "totalSolved": 29,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-09-11",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -38,7 +38,8 @@
     "LeetCode_Reverse_Words_in_a_String_III": true,
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Baseball_Game": true,
-    "LeetCode_Backspace_String_Compare": true
+    "LeetCode_Backspace_String_Compare": true,
+    "LeetCode_Search_Insert_Position": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -46,11 +47,10 @@
     "2026-09-07": 5,
     "2026-09-08": 6,
     "2026-09-09": 6,
-    "2026-09-10": 3
+    "2026-09-10": 3,
+    "2026-09-11": 1
   },
   "todayProblems": [
-    "Valid Parentheses",
-    "Baseball Game",
-    "Backspace String Compare"
+    "Search Insert Position"
   ]
 }
