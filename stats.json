@@ -1,11 +1,11 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-09-12",
+  "totalSolved": 35,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-09-13",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 34,
+    "easy": 35,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -44,7 +44,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_First_Bad_Version": true,
     "LeetCode_Guess_Number_Higher_or_Lower": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_Linked_List_Cycle": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -54,9 +55,10 @@
     "2026-09-09": 6,
     "2026-09-10": 3,
     "2026-09-11": 5,
-    "2026-09-12": 1
+    "2026-09-12": 1,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Merge Two Sorted Lists"
+    "Linked List Cycle"
   ]
 }
