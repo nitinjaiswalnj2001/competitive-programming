@@ -33,3 +33,4 @@
 | 31 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 11 Sept 2026 | 01:27 pm |
 | 32 | [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) | [LeetCode](https://leetcode.com/problems/first-bad-version/) | Easy | 11 Sept 2026 | 02:36 pm |
 | 33 | [Guess Number Higher or Lower](./LeetCode/Easy/Guess%20Number%20Higher%20or%20Lower) | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 11 Sept 2026 | 10:33 pm |
+| 34 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 12 Sept 2026 | 10:20 pm |
