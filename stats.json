@@ -1,11 +1,11 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 37,
+    "easy": 38,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -47,7 +47,8 @@
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Reverse_Linked_List": true,
-    "LeetCode_Middle_of_the_Linked_List": true
+    "LeetCode_Middle_of_the_Linked_List": true,
+    "LeetCode_Palindrome_Linked_List": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -59,9 +60,10 @@
     "2026-09-11": 5,
     "2026-09-12": 1,
     "2026-09-13": 2,
-    "2026-09-14": 1
+    "2026-09-14": 2
   },
   "todayProblems": [
-    "Middle of the Linked List"
+    "Middle of the Linked List",
+    "Palindrome Linked List"
   ]
 }
