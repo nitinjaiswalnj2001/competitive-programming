@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-09-13",
-  "todayCount": 2,
+  "totalSolved": 37,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-09-14",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 36,
+    "easy": 37,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -46,7 +46,8 @@
     "LeetCode_Guess_Number_Higher_or_Lower": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Linked_List_Cycle": true,
-    "LeetCode_Reverse_Linked_List": true
+    "LeetCode_Reverse_Linked_List": true,
+    "LeetCode_Middle_of_the_Linked_List": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -57,10 +58,10 @@
     "2026-09-10": 3,
     "2026-09-11": 5,
     "2026-09-12": 1,
-    "2026-09-13": 2
+    "2026-09-13": 2,
+    "2026-09-14": 1
   },
   "todayProblems": [
-    "Linked List Cycle",
-    "Reverse Linked List"
+    "Middle of the Linked List"
   ]
 }
