@@ -44,3 +44,4 @@
 | 42 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 15 Sept 2026 | 10:56 am |
 | 43 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 15 Sept 2026 | 11:05 am |
 | 44 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 15 Sept 2026 | 11:14 am |
+| 45 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 15 Sept 2026 | 12:50 pm |
