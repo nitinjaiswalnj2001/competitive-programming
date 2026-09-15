@@ -43,3 +43,4 @@
 | 41 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 10:13 am |
 | 42 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 15 Sept 2026 | 10:56 am |
 | 43 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 15 Sept 2026 | 11:05 am |
+| 44 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 15 Sept 2026 | 11:14 am |
