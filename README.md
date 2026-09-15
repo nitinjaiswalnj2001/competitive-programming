@@ -42,3 +42,4 @@
 | 40 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 14 Sept 2026 | 03:48 pm |
 | 41 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 10:13 am |
 | 42 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 15 Sept 2026 | 10:56 am |
+| 43 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 15 Sept 2026 | 11:05 am |
