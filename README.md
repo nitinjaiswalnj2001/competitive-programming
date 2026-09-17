@@ -47,3 +47,4 @@
 | 45 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 15 Sept 2026 | 12:50 pm |
 | 46 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 01:18 pm |
 | 47 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 15 Sept 2026 | 02:50 pm |
+| 48 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 17 Sept 2026 | 12:17 pm |
