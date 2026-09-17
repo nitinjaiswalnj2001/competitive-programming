@@ -1,11 +1,11 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-17",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 53,
+    "easy": 54,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -63,7 +63,8 @@
     "LeetCode_Add_Binary": true,
     "LeetCode_Happy_Number": true,
     "LeetCode_Power_of_Two": true,
-    "LeetCode_Number_of_1_Bits": true
+    "LeetCode_Number_of_1_Bits": true,
+    "LeetCode_Counting_Bits": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -77,7 +78,7 @@
     "2026-09-13": 2,
     "2026-09-14": 4,
     "2026-09-15": 7,
-    "2026-09-17": 6
+    "2026-09-17": 7
   },
   "todayProblems": [
     "Palindrome Number",
@@ -85,6 +86,7 @@
     "Add Binary",
     "Happy Number",
     "Power of Two",
-    "Number of 1 Bits"
+    "Number of 1 Bits",
+    "Counting Bits"
   ]
 }

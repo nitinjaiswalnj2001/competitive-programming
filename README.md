@@ -53,3 +53,4 @@
 | 51 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 17 Sept 2026 | 01:59 pm |
 | 52 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 17 Sept 2026 | 03:01 pm |
 | 53 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 17 Sept 2026 | 03:19 pm |
+| 54 | [Counting Bits](./LeetCode/Easy/Counting%20Bits) | [LeetCode](https://leetcode.com/problems/counting-bits/) | Easy | 17 Sept 2026 | 04:35 pm |
