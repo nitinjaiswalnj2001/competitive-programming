@@ -51,3 +51,4 @@
 | 49 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 17 Sept 2026 | 01:16 pm |
 | 50 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 17 Sept 2026 | 01:43 pm |
 | 51 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 17 Sept 2026 | 01:59 pm |
+| 52 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 17 Sept 2026 | 03:01 pm |
