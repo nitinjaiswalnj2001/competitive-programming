@@ -1,11 +1,11 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 48,
+    "easy": 49,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -58,7 +58,8 @@
     "LeetCode_Path_Sum": true,
     "LeetCode_Minimum_Depth_of_Binary_Tree": true,
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
-    "LeetCode_Palindrome_Number": true
+    "LeetCode_Palindrome_Number": true,
+    "LeetCode_Plus_One": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -72,9 +73,10 @@
     "2026-09-13": 2,
     "2026-09-14": 4,
     "2026-09-15": 7,
-    "2026-09-17": 1
+    "2026-09-17": 2
   },
   "todayProblems": [
-    "Palindrome Number"
+    "Palindrome Number",
+    "Plus One"
   ]
 }
