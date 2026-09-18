@@ -1,11 +1,11 @@
 {
-  "totalSolved": 55,
-  "currentStreak": 1,
+  "totalSolved": 56,
+  "currentStreak": 2,
   "maxStreak": 9,
-  "lastSyncDate": "2026-09-17",
-  "todayCount": 8,
+  "lastSyncDate": "2026-09-18",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 55,
+    "easy": 56,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -65,7 +65,8 @@
     "LeetCode_Power_of_Two": true,
     "LeetCode_Number_of_1_Bits": true,
     "LeetCode_Counting_Bits": true,
-    "LeetCode_Reverse_Bits": true
+    "LeetCode_Reverse_Bits": true,
+    "LeetCode_Running_Sum_of_1d_Array": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -79,16 +80,10 @@
     "2026-09-13": 2,
     "2026-09-14": 4,
     "2026-09-15": 7,
-    "2026-09-17": 8
+    "2026-09-17": 8,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Palindrome Number",
-    "Plus One",
-    "Add Binary",
-    "Happy Number",
-    "Power of Two",
-    "Number of 1 Bits",
-    "Counting Bits",
-    "Reverse Bits"
+    "Running Sum of 1d Array"
   ]
 }
