@@ -1,11 +1,11 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 57,
+    "easy": 58,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -67,7 +67,8 @@
     "LeetCode_Counting_Bits": true,
     "LeetCode_Reverse_Bits": true,
     "LeetCode_Running_Sum_of_1d_Array": true,
-    "LeetCode_Find_Pivot_Index": true
+    "LeetCode_Find_Pivot_Index": true,
+    "LeetCode_Find_the_Highest_Altitude": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -82,10 +83,11 @@
     "2026-09-14": 4,
     "2026-09-15": 7,
     "2026-09-17": 8,
-    "2026-09-18": 2
+    "2026-09-18": 3
   },
   "todayProblems": [
     "Running Sum of 1d Array",
-    "Find Pivot Index"
+    "Find Pivot Index",
+    "Find the Highest Altitude"
   ]
 }
