@@ -1,11 +1,11 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 59,
+    "easy": 60,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -69,7 +69,8 @@
     "LeetCode_Running_Sum_of_1d_Array": true,
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Find_the_Highest_Altitude": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
+    "LeetCode_Assign_Cookies": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -84,12 +85,13 @@
     "2026-09-14": 4,
     "2026-09-15": 7,
     "2026-09-17": 8,
-    "2026-09-18": 4
+    "2026-09-18": 5
   },
   "todayProblems": [
     "Running Sum of 1d Array",
     "Find Pivot Index",
     "Find the Highest Altitude",
-    "Best Time to Buy and Sell Stock"
+    "Best Time to Buy and Sell Stock",
+    "Assign Cookies"
   ]
 }
