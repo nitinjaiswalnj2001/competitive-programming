@@ -61,3 +61,4 @@
 | 59 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 18 Sept 2026 | 11:30 am |
 | 60 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 18 Sept 2026 | 02:48 pm |
 | 61 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 18 Sept 2026 | 02:48 pm |
+| 62 | [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) | [LeetCode](https://leetcode.com/problems/reshape-the-matrix/) | Easy | 19 Sept 2026 | 09:51 am |
