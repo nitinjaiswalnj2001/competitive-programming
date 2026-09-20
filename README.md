@@ -68,3 +68,4 @@
 | 66 | [Jewels and Stones](./LeetCode/Easy/Jewels%20and%20Stones) | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | Easy | 20 Sept 2026 | 09:54 pm |
 | 67 | [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) | [LeetCode](https://leetcode.com/problems/keyboard-row/) | Easy | 20 Sept 2026 | 10:39 pm |
 | 68 | [Find Common Characters](./LeetCode/Easy/Find%20Common%20Characters) | [LeetCode](https://leetcode.com/problems/find-common-characters/) | Easy | 21 Sept 2026 | 12:11 am |
+| 69 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 21 Sept 2026 | 12:31 am |
