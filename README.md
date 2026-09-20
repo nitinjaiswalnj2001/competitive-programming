@@ -63,3 +63,4 @@
 | 61 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 18 Sept 2026 | 02:48 pm |
 | 62 | [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) | [LeetCode](https://leetcode.com/problems/reshape-the-matrix/) | Easy | 19 Sept 2026 | 09:51 am |
 | 63 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 19 Sept 2026 | 10:46 pm |
+| 64 | [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) | [LeetCode](https://leetcode.com/problems/toeplitz-matrix/) | Easy | 20 Sept 2026 | 01:24 pm |
