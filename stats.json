@@ -1,11 +1,11 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 4,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-20",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 65,
+    "easy": 66,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -75,7 +75,8 @@
     "LeetCode_Reshape_the_Matrix": true,
     "LeetCode_Flood_Fill": true,
     "LeetCode_Toeplitz_Matrix": true,
-    "LeetCode_Fizz_Buzz": true
+    "LeetCode_Fizz_Buzz": true,
+    "LeetCode_Jewels_and_Stones": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -92,10 +93,11 @@
     "2026-09-17": 8,
     "2026-09-18": 6,
     "2026-09-19": 2,
-    "2026-09-20": 2
+    "2026-09-20": 3
   },
   "todayProblems": [
     "Toeplitz Matrix",
-    "Fizz Buzz"
+    "Fizz Buzz",
+    "Jewels and Stones"
   ]
 }

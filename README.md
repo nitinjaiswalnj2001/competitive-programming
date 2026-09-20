@@ -65,3 +65,4 @@
 | 63 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 19 Sept 2026 | 10:46 pm |
 | 64 | [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) | [LeetCode](https://leetcode.com/problems/toeplitz-matrix/) | Easy | 20 Sept 2026 | 01:24 pm |
 | 65 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 20 Sept 2026 | 07:20 pm |
+| 66 | [Jewels and Stones](./LeetCode/Easy/Jewels%20and%20Stones) | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | Easy | 20 Sept 2026 | 09:54 pm |
