@@ -69,3 +69,4 @@
 | 67 | [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) | [LeetCode](https://leetcode.com/problems/keyboard-row/) | Easy | 20 Sept 2026 | 10:39 pm |
 | 68 | [Find Common Characters](./LeetCode/Easy/Find%20Common%20Characters) | [LeetCode](https://leetcode.com/problems/find-common-characters/) | Easy | 21 Sept 2026 | 12:11 am |
 | 69 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 21 Sept 2026 | 12:31 am |
+| 70 | [Maximum Number of Words Found in Sentences](./LeetCode/Easy/Maximum%20Number%20of%20Words%20Found%20in%20Sentences) | [LeetCode](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | 21 Sept 2026 | 10:09 am |
