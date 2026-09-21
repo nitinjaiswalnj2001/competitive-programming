@@ -71,3 +71,4 @@
 | 69 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 21 Sept 2026 | 12:31 am |
 | 70 | [Maximum Number of Words Found in Sentences](./LeetCode/Easy/Maximum%20Number%20of%20Words%20Found%20in%20Sentences) | [LeetCode](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | 21 Sept 2026 | 10:09 am |
 | 71 | [Shuffle the Array](./LeetCode/Easy/Shuffle%20the%20Array) | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | Easy | 21 Sept 2026 | 10:26 am |
+| 72 | [Kids With the Greatest Number of Candies](./LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies) | [LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 21 Sept 2026 | 12:05 pm |
