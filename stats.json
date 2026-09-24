@@ -1,11 +1,11 @@
 {
-  "totalSolved": 74,
+  "totalSolved": 75,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 74,
+    "easy": 75,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -84,7 +84,8 @@
     "LeetCode_Shuffle_the_Array": true,
     "LeetCode_Kids_With_the_Greatest_Number_of_Candies": true,
     "LeetCode_Climbing_Stairs": true,
-    "LeetCode_Fibonacci_Number": true
+    "LeetCode_Fibonacci_Number": true,
+    "LeetCode_Min_Cost_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -103,10 +104,11 @@
     "2026-09-19": 2,
     "2026-09-20": 4,
     "2026-09-21": 5,
-    "2026-09-24": 2
+    "2026-09-24": 3
   },
   "todayProblems": [
     "Climbing Stairs",
-    "Fibonacci Number"
+    "Fibonacci Number",
+    "Min Cost Climbing Stairs"
   ]
 }

@@ -74,3 +74,4 @@
 | 72 | [Kids With the Greatest Number of Candies](./LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies) | [LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 21 Sept 2026 | 12:05 pm |
 | 73 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 24 Sept 2026 | 12:34 pm |
 | 74 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 24 Sept 2026 | 12:58 pm |
+| 75 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 24 Sept 2026 | 01:31 pm |
