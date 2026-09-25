@@ -1,12 +1,12 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-25",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
@@ -90,7 +90,8 @@
     "LeetCode_Top_K_Frequent_Elements": true,
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Continuous_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -110,12 +111,13 @@
     "2026-09-20": 4,
     "2026-09-21": 5,
     "2026-09-24": 4,
-    "2026-09-25": 4
+    "2026-09-25": 5
   },
   "todayProblems": [
     "Top K Frequent Elements",
     "Product of Array Except Self",
     "Longest Consecutive Sequence",
-    "Subarray Sum Equals K"
+    "Subarray Sum Equals K",
+    "Continuous Subarray Sum"
   ]
 }
