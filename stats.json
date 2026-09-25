@@ -1,12 +1,12 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -87,7 +87,8 @@
     "LeetCode_Fibonacci_Number": true,
     "LeetCode_Min_Cost_Climbing_Stairs": true,
     "LeetCode_Group_Anagrams": true,
-    "LeetCode_Top_K_Frequent_Elements": true
+    "LeetCode_Top_K_Frequent_Elements": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -107,9 +108,10 @@
     "2026-09-20": 4,
     "2026-09-21": 5,
     "2026-09-24": 4,
-    "2026-09-25": 1
+    "2026-09-25": 2
   },
   "todayProblems": [
-    "Top K Frequent Elements"
+    "Top K Frequent Elements",
+    "Product of Array Except Self"
   ]
 }
