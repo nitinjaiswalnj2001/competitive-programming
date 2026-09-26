@@ -1,12 +1,12 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 3,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -93,7 +93,8 @@
     "LeetCode_Subarray_Sum_Equals_K": true,
     "LeetCode_Continuous_Subarray_Sum": true,
     "LeetCode_Contiguous_Array": true,
-    "LeetCode_Find_the_Duplicate_Number": true
+    "LeetCode_Find_the_Duplicate_Number": true,
+    "LeetCode_Insert_Delete_GetRandom_O(1)": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -114,9 +115,10 @@
     "2026-09-21": 5,
     "2026-09-24": 4,
     "2026-09-25": 6,
-    "2026-09-26": 1
+    "2026-09-26": 2
   },
   "todayProblems": [
-    "Find the Duplicate Number"
+    "Find the Duplicate Number",
+    "Insert Delete GetRandom O(1)"
   ]
 }

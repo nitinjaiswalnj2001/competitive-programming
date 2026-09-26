@@ -83,3 +83,4 @@
 | 81 | [Continuous Subarray Sum](./LeetCode/Medium/Continuous%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | 25 Sept 2026 | 05:44 pm |
 | 82 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 25 Sept 2026 | 06:21 pm |
 | 83 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 26 Sept 2026 | 08:45 pm |
+| 84 | [Insert Delete GetRandom O(1)](./LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1)) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 26 Sept 2026 | 10:09 pm |
