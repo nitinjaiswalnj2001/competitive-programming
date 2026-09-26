@@ -82,3 +82,4 @@
 | 80 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 25 Sept 2026 | 04:36 pm |
 | 81 | [Continuous Subarray Sum](./LeetCode/Medium/Continuous%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | 25 Sept 2026 | 05:44 pm |
 | 82 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 25 Sept 2026 | 06:21 pm |
+| 83 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 26 Sept 2026 | 08:45 pm |
