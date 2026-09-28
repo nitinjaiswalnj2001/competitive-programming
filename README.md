@@ -85,3 +85,4 @@
 | 83 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 26 Sept 2026 | 08:45 pm |
 | 84 | [Insert Delete GetRandom O(1)](./LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1)) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 26 Sept 2026 | 10:09 pm |
 | 85 | [Random Pick with Weight](./LeetCode/Medium/Random%20Pick%20with%20Weight) | [LeetCode](https://leetcode.com/problems/random-pick-with-weight/) | Medium | 27 Sept 2026 | 12:19 am |
+| 86 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 28 Sept 2026 | 11:17 am |
