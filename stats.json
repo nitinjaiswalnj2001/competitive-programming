@@ -1,12 +1,12 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 5,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 0
   },
@@ -96,7 +96,8 @@
     "LeetCode_Find_the_Duplicate_Number": true,
     "LeetCode_Insert_Delete_GetRandom_O(1)": true,
     "LeetCode_Random_Pick_with_Weight": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -119,9 +120,10 @@
     "2026-09-25": 6,
     "2026-09-26": 2,
     "2026-09-27": 1,
-    "2026-09-28": 1
+    "2026-09-28": 2
   },
   "todayProblems": [
-    "3Sum"
+    "3Sum",
+    "Container With Most Water"
   ]
 }
