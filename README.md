@@ -87,3 +87,4 @@
 | 85 | [Random Pick with Weight](./LeetCode/Medium/Random%20Pick%20with%20Weight) | [LeetCode](https://leetcode.com/problems/random-pick-with-weight/) | Medium | 27 Sept 2026 | 12:19 am |
 | 86 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 28 Sept 2026 | 11:17 am |
 | 87 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 28 Sept 2026 | 01:49 pm |
+| 88 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 28 Sept 2026 | 01:53 pm |
