@@ -94,3 +94,4 @@
 | 92 | [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 29 Sept 2026 | 11:27 am |
 | 93 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 29 Sept 2026 | 01:00 pm |
 | 94 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 29 Sept 2026 | 01:47 pm |
+| 95 | [Partition Array According to Given Pivot](./LeetCode/Medium/Partition%20Array%20According%20to%20Given%20Pivot) | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | 29 Sept 2026 | 10:58 pm |
