@@ -1,12 +1,12 @@
 {
-  "totalSolved": 92,
+  "totalSolved": 93,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 17,
+    "medium": 18,
     "hard": 0,
     "basic": 0
   },
@@ -102,7 +102,8 @@
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "LeetCode_4Sum": true,
     "LeetCode_Boats_to_Save_People": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
+    "LeetCode_Rotate_Array": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -126,11 +127,12 @@
     "2026-09-26": 2,
     "2026-09-27": 1,
     "2026-09-28": 4,
-    "2026-09-29": 3
+    "2026-09-29": 4
   },
   "todayProblems": [
     "4Sum",
     "Boats to Save People",
-    "Remove Duplicates from Sorted Array II"
+    "Remove Duplicates from Sorted Array II",
+    "Rotate Array"
   ]
 }
