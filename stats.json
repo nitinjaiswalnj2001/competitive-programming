@@ -1,12 +1,12 @@
 {
-  "totalSolved": 90,
+  "totalSolved": 91,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 0
   },
@@ -100,7 +100,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Sort_Colors": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
-    "LeetCode_4Sum": true
+    "LeetCode_4Sum": true,
+    "LeetCode_Boats_to_Save_People": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -124,9 +125,10 @@
     "2026-09-26": 2,
     "2026-09-27": 1,
     "2026-09-28": 4,
-    "2026-09-29": 1
+    "2026-09-29": 2
   },
   "todayProblems": [
-    "4Sum"
+    "4Sum",
+    "Boats to Save People"
   ]
 }
