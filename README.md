@@ -95,3 +95,4 @@
 | 93 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 29 Sept 2026 | 01:00 pm |
 | 94 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 29 Sept 2026 | 01:47 pm |
 | 95 | [Partition Array According to Given Pivot](./LeetCode/Medium/Partition%20Array%20According%20to%20Given%20Pivot) | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | 29 Sept 2026 | 10:58 pm |
+| 96 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 30 Sept 2026 | 09:35 am |
