@@ -1,12 +1,12 @@
 {
-  "totalSolved": 97,
+  "totalSolved": 98,
   "currentStreak": 7,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-30",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 22,
+    "medium": 23,
     "hard": 0,
     "basic": 0
   },
@@ -107,7 +107,8 @@
     "LeetCode_Next_Permutation": true,
     "LeetCode_Partition_Array_According_to_Given_Pivot": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Longest_Repeating_Character_Replacement": true
+    "LeetCode_Longest_Repeating_Character_Replacement": true,
+    "LeetCode_Permutation_in_String": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -132,10 +133,11 @@
     "2026-09-27": 1,
     "2026-09-28": 4,
     "2026-09-29": 6,
-    "2026-09-30": 2
+    "2026-09-30": 3
   },
   "todayProblems": [
     "Longest Substring Without Repeating Characters",
-    "Longest Repeating Character Replacement"
+    "Longest Repeating Character Replacement",
+    "Permutation in String"
   ]
 }
