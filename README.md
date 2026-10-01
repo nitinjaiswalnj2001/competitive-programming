@@ -102,3 +102,4 @@
 | 100 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 01 Oct 2026 | 10:55 am |
 | 101 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 01 Oct 2026 | 11:29 pm |
 | 102 | [Frequency of the Most Frequent Element](./LeetCode/Medium/Frequency%20of%20the%20Most%20Frequent%20Element) | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | 01 Oct 2026 | 11:33 pm |
+| 103 | [Grumpy Bookstore Owner](./LeetCode/Medium/Grumpy%20Bookstore%20Owner) | [LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | 01 Oct 2026 | 11:50 pm |
