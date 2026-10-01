@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 8,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 25,
+    "medium": 26,
     "hard": 0,
     "basic": 0
   },
@@ -110,7 +110,8 @@
     "LeetCode_Longest_Repeating_Character_Replacement": true,
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Minimum_Size_Subarray_Sum": true,
-    "LeetCode_Fruit_Into_Baskets": true
+    "LeetCode_Fruit_Into_Baskets": true,
+    "LeetCode_Max_Consecutive_Ones_III": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -136,9 +137,10 @@
     "2026-09-28": 4,
     "2026-09-29": 6,
     "2026-09-30": 4,
-    "2026-10-01": 1
+    "2026-10-01": 2
   },
   "todayProblems": [
-    "Fruit Into Baskets"
+    "Fruit Into Baskets",
+    "Max Consecutive Ones III"
   ]
 }

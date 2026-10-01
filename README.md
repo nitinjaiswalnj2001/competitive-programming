@@ -100,3 +100,4 @@
 | 98 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 30 Sept 2026 | 12:31 pm |
 | 99 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 30 Sept 2026 | 03:16 pm |
 | 100 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 01 Oct 2026 | 10:55 am |
+| 101 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 01 Oct 2026 | 11:29 pm |
