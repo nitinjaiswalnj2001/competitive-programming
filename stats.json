@@ -1,12 +1,12 @@
 {
-  "totalSolved": 99,
-  "currentStreak": 7,
+  "totalSolved": 100,
+  "currentStreak": 8,
   "maxStreak": 9,
-  "lastSyncDate": "2026-09-30",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 24,
+    "medium": 25,
     "hard": 0,
     "basic": 0
   },
@@ -109,7 +109,8 @@
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Longest_Repeating_Character_Replacement": true,
     "LeetCode_Permutation_in_String": true,
-    "LeetCode_Minimum_Size_Subarray_Sum": true
+    "LeetCode_Minimum_Size_Subarray_Sum": true,
+    "LeetCode_Fruit_Into_Baskets": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -134,12 +135,10 @@
     "2026-09-27": 1,
     "2026-09-28": 4,
     "2026-09-29": 6,
-    "2026-09-30": 4
+    "2026-09-30": 4,
+    "2026-10-01": 1
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters",
-    "Longest Repeating Character Replacement",
-    "Permutation in String",
-    "Minimum Size Subarray Sum"
+    "Fruit Into Baskets"
   ]
 }

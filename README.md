@@ -99,3 +99,4 @@
 | 97 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 30 Sept 2026 | 10:43 am |
 | 98 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 30 Sept 2026 | 12:31 pm |
 | 99 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 30 Sept 2026 | 03:16 pm |
+| 100 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 01 Oct 2026 | 10:55 am |
