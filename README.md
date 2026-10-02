@@ -104,3 +104,4 @@
 | 102 | [Frequency of the Most Frequent Element](./LeetCode/Medium/Frequency%20of%20the%20Most%20Frequent%20Element) | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | 01 Oct 2026 | 11:33 pm |
 | 103 | [Grumpy Bookstore Owner](./LeetCode/Medium/Grumpy%20Bookstore%20Owner) | [LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | 01 Oct 2026 | 11:50 pm |
 | 104 | [Maximum Erasure Value](./LeetCode/Medium/Maximum%20Erasure%20Value) | [LeetCode](https://leetcode.com/problems/maximum-erasure-value/) | Medium | 02 Oct 2026 | 12:09 am |
+| 105 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 02 Oct 2026 | 10:36 am |

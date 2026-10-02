@@ -1,12 +1,12 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 29,
+    "medium": 30,
     "hard": 0,
     "basic": 0
   },
@@ -114,7 +114,8 @@
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Frequency_of_the_Most_Frequent_Element": true,
     "LeetCode_Grumpy_Bookstore_Owner": true,
-    "LeetCode_Maximum_Erasure_Value": true
+    "LeetCode_Maximum_Erasure_Value": true,
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -141,9 +142,10 @@
     "2026-09-29": 6,
     "2026-09-30": 4,
     "2026-10-01": 4,
-    "2026-10-02": 1
+    "2026-10-02": 2
   },
   "todayProblems": [
-    "Maximum Erasure Value"
+    "Maximum Erasure Value",
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
   ]
 }
