@@ -1,12 +1,12 @@
 {
-  "totalSolved": 106,
+  "totalSolved": 107,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 31,
+    "medium": 32,
     "hard": 0,
     "basic": 0
   },
@@ -116,7 +116,8 @@
     "LeetCode_Grumpy_Bookstore_Owner": true,
     "LeetCode_Maximum_Erasure_Value": true,
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -143,11 +144,12 @@
     "2026-09-29": 6,
     "2026-09-30": 4,
     "2026-10-01": 4,
-    "2026-10-02": 3
+    "2026-10-02": 4
   },
   "todayProblems": [
     "Maximum Erasure Value",
     "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-    "Find First and Last Position of Element in Sorted Array"
+    "Find First and Last Position of Element in Sorted Array",
+    "Search in Rotated Sorted Array"
   ]
 }
