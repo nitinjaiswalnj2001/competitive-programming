@@ -1,12 +1,12 @@
 {
-  "totalSolved": 109,
+  "totalSolved": 110,
   "currentStreak": 1,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 34,
+    "medium": 35,
     "hard": 0,
     "basic": 0
   },
@@ -119,7 +119,8 @@
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
-    "LeetCode_Search_a_2D_Matrix": true
+    "LeetCode_Search_a_2D_Matrix": true,
+    "LeetCode_Koko_Eating_Bananas": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -148,9 +149,10 @@
     "2026-10-01": 4,
     "2026-10-02": 4,
     "2026-10-03": 1,
-    "2026-10-06": 1
+    "2026-10-06": 2
   },
   "todayProblems": [
-    "Search a 2D Matrix"
+    "Search a 2D Matrix",
+    "Koko Eating Bananas"
   ]
 }
