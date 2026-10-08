@@ -1,12 +1,12 @@
 {
-  "totalSolved": 111,
+  "totalSolved": 112,
   "currentStreak": 1,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 36,
+    "medium": 37,
     "hard": 0,
     "basic": 0
   },
@@ -121,7 +121,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Koko_Eating_Bananas": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "LeetCode_Time_Based_Key-Value_Store": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -151,9 +152,10 @@
     "2026-10-02": 4,
     "2026-10-03": 1,
     "2026-10-06": 2,
-    "2026-10-08": 1
+    "2026-10-08": 2
   },
   "todayProblems": [
-    "Find Peak Element"
+    "Find Peak Element",
+    "Time Based Key-Value Store"
   ]
 }

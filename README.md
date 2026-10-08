@@ -111,3 +111,4 @@
 | 109 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 06 Oct 2026 | 10:23 am |
 | 110 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 06 Oct 2026 | 10:57 am |
 | 111 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 08 Oct 2026 | 11:57 pm |
+| 112 | [Time Based Key-Value Store](./LeetCode/Medium/Time%20Based%20Key-Value%20Store) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) | Medium | 08 Oct 2026 | 11:59 pm |
