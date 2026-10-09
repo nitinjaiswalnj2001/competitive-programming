@@ -113,3 +113,4 @@
 | 111 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 08 Oct 2026 | 11:57 pm |
 | 112 | [Time Based Key-Value Store](./LeetCode/Medium/Time%20Based%20Key-Value%20Store) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) | Medium | 08 Oct 2026 | 11:59 pm |
 | 113 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 09 Oct 2026 | 12:31 am |
+| 114 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 09 Oct 2026 | 09:32 am |
