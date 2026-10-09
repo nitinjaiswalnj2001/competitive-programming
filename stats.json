@@ -1,12 +1,12 @@
 {
-  "totalSolved": 114,
+  "totalSolved": 115,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 39,
+    "medium": 40,
     "hard": 0,
     "basic": 0
   },
@@ -124,7 +124,8 @@
     "LeetCode_Find_Peak_Element": true,
     "LeetCode_Time_Based_Key-Value_Store": true,
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
-    "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true
+    "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
+    "LeetCode_Successful_Pairs_of_Spells_and_Potions": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -155,10 +156,11 @@
     "2026-10-03": 1,
     "2026-10-06": 2,
     "2026-10-08": 2,
-    "2026-10-09": 2
+    "2026-10-09": 3
   },
   "todayProblems": [
     "Capacity To Ship Packages Within D Days",
-    "Minimum Number of Days to Make m Bouquets"
+    "Minimum Number of Days to Make m Bouquets",
+    "Successful Pairs of Spells and Potions"
   ]
 }
