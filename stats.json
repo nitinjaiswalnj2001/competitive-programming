@@ -1,12 +1,12 @@
 {
-  "totalSolved": 118,
+  "totalSolved": 119,
   "currentStreak": 3,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 43,
+    "medium": 44,
     "hard": 0,
     "basic": 0
   },
@@ -128,7 +128,8 @@
     "LeetCode_Successful_Pairs_of_Spells_and_Potions": true,
     "LeetCode_Min_Stack": true,
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
-    "LeetCode_Daily_Temperatures": true
+    "LeetCode_Daily_Temperatures": true,
+    "LeetCode_Asteroid_Collision": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -160,11 +161,12 @@
     "2026-10-06": 2,
     "2026-10-08": 2,
     "2026-10-09": 3,
-    "2026-10-10": 3
+    "2026-10-10": 4
   },
   "todayProblems": [
     "Min Stack",
     "Evaluate Reverse Polish Notation",
-    "Daily Temperatures"
+    "Daily Temperatures",
+    "Asteroid Collision"
   ]
 }
