@@ -1,12 +1,12 @@
 {
-  "totalSolved": 116,
+  "totalSolved": 117,
   "currentStreak": 3,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 41,
+    "medium": 42,
     "hard": 0,
     "basic": 0
   },
@@ -126,7 +126,8 @@
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
     "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
     "LeetCode_Successful_Pairs_of_Spells_and_Potions": true,
-    "LeetCode_Min_Stack": true
+    "LeetCode_Min_Stack": true,
+    "LeetCode_Evaluate_Reverse_Polish_Notation": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -158,9 +159,10 @@
     "2026-10-06": 2,
     "2026-10-08": 2,
     "2026-10-09": 3,
-    "2026-10-10": 1
+    "2026-10-10": 2
   },
   "todayProblems": [
-    "Min Stack"
+    "Min Stack",
+    "Evaluate Reverse Polish Notation"
   ]
 }

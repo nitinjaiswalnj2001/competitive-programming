@@ -116,3 +116,4 @@
 | 114 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 09 Oct 2026 | 09:32 am |
 | 115 | [Successful Pairs of Spells and Potions](./LeetCode/Medium/Successful%20Pairs%20of%20Spells%20and%20Potions) | [LeetCode](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | 09 Oct 2026 | 10:29 am |
 | 116 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 10 Oct 2026 | 11:29 am |
+| 117 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 10 Oct 2026 | 11:57 am |
