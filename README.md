@@ -122,3 +122,4 @@
 | 120 | [Car Fleet](./LeetCode/Medium/Car%20Fleet) | [LeetCode](https://leetcode.com/problems/car-fleet/) | Medium | 10 Oct 2026 | 11:56 pm |
 | 121 | [Decode String](./LeetCode/Medium/Decode%20String) | [LeetCode](https://leetcode.com/problems/decode-string/) | Medium | 11 Oct 2026 | 09:55 pm |
 | 122 | [Simplify Path](./LeetCode/Medium/Simplify%20Path) | [LeetCode](https://leetcode.com/problems/simplify-path/) | Medium | 11 Oct 2026 | 11:12 pm |
+| 123 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 11 Oct 2026 | 11:28 pm |
