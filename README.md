@@ -120,3 +120,4 @@
 | 118 | [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | Medium | 10 Oct 2026 | 02:53 pm |
 | 119 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 10 Oct 2026 | 11:06 pm |
 | 120 | [Car Fleet](./LeetCode/Medium/Car%20Fleet) | [LeetCode](https://leetcode.com/problems/car-fleet/) | Medium | 10 Oct 2026 | 11:56 pm |
+| 121 | [Decode String](./LeetCode/Medium/Decode%20String) | [LeetCode](https://leetcode.com/problems/decode-string/) | Medium | 11 Oct 2026 | 09:55 pm |

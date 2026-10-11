@@ -1,12 +1,12 @@
 {
-  "totalSolved": 120,
-  "currentStreak": 3,
+  "totalSolved": 121,
+  "currentStreak": 4,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-10",
-  "todayCount": 5,
+  "lastSyncDate": "2026-10-11",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 45,
+    "medium": 46,
     "hard": 0,
     "basic": 0
   },
@@ -130,7 +130,8 @@
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
     "LeetCode_Daily_Temperatures": true,
     "LeetCode_Asteroid_Collision": true,
-    "LeetCode_Car_Fleet": true
+    "LeetCode_Car_Fleet": true,
+    "LeetCode_Decode_String": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -162,13 +163,10 @@
     "2026-10-06": 2,
     "2026-10-08": 2,
     "2026-10-09": 3,
-    "2026-10-10": 5
+    "2026-10-10": 5,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Min Stack",
-    "Evaluate Reverse Polish Notation",
-    "Daily Temperatures",
-    "Asteroid Collision",
-    "Car Fleet"
+    "Decode String"
   ]
 }
