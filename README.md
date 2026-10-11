@@ -121,3 +121,4 @@
 | 119 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 10 Oct 2026 | 11:06 pm |
 | 120 | [Car Fleet](./LeetCode/Medium/Car%20Fleet) | [LeetCode](https://leetcode.com/problems/car-fleet/) | Medium | 10 Oct 2026 | 11:56 pm |
 | 121 | [Decode String](./LeetCode/Medium/Decode%20String) | [LeetCode](https://leetcode.com/problems/decode-string/) | Medium | 11 Oct 2026 | 09:55 pm |
+| 122 | [Simplify Path](./LeetCode/Medium/Simplify%20Path) | [LeetCode](https://leetcode.com/problems/simplify-path/) | Medium | 11 Oct 2026 | 11:12 pm |

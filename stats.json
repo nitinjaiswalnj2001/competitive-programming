@@ -1,12 +1,12 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 4,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 46,
+    "medium": 47,
     "hard": 0,
     "basic": 0
   },
@@ -131,7 +131,8 @@
     "LeetCode_Daily_Temperatures": true,
     "LeetCode_Asteroid_Collision": true,
     "LeetCode_Car_Fleet": true,
-    "LeetCode_Decode_String": true
+    "LeetCode_Decode_String": true,
+    "LeetCode_Simplify_Path": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -164,9 +165,10 @@
     "2026-10-08": 2,
     "2026-10-09": 3,
     "2026-10-10": 5,
-    "2026-10-11": 1
+    "2026-10-11": 2
   },
   "todayProblems": [
-    "Decode String"
+    "Decode String",
+    "Simplify Path"
   ]
 }
