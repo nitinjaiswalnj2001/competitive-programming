@@ -124,3 +124,4 @@
 | 122 | [Simplify Path](./LeetCode/Medium/Simplify%20Path) | [LeetCode](https://leetcode.com/problems/simplify-path/) | Medium | 11 Oct 2026 | 11:12 pm |
 | 123 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 11 Oct 2026 | 11:28 pm |
 | 124 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 13 Oct 2026 | 11:40 am |
+| 125 | [132 Pattern](./LeetCode/Medium/132%20Pattern) | [LeetCode](https://leetcode.com/problems/132-pattern/) | Medium | 13 Oct 2026 | 01:53 pm |
