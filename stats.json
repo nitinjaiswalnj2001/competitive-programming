@@ -1,12 +1,12 @@
 {
-  "totalSolved": 125,
+  "totalSolved": 126,
   "currentStreak": 1,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 50,
+    "medium": 51,
     "hard": 0,
     "basic": 0
   },
@@ -135,7 +135,8 @@
     "LeetCode_Simplify_Path": true,
     "LeetCode_Next_Greater_Element_II": true,
     "LeetCode_Remove_K_Digits": true,
-    "LeetCode_132_Pattern": true
+    "LeetCode_132_Pattern": true,
+    "LeetCode_Add_Two_Numbers": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -169,10 +170,11 @@
     "2026-10-09": 3,
     "2026-10-10": 5,
     "2026-10-11": 3,
-    "2026-10-13": 2
+    "2026-10-13": 3
   },
   "todayProblems": [
     "Remove K Digits",
-    "132 Pattern"
+    "132 Pattern",
+    "Add Two Numbers"
   ]
 }

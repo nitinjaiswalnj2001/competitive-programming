@@ -125,3 +125,4 @@
 | 123 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 11 Oct 2026 | 11:28 pm |
 | 124 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 13 Oct 2026 | 11:40 am |
 | 125 | [132 Pattern](./LeetCode/Medium/132%20Pattern) | [LeetCode](https://leetcode.com/problems/132-pattern/) | Medium | 13 Oct 2026 | 01:53 pm |
+| 126 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 13 Oct 2026 | 10:58 pm |
