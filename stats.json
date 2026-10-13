@@ -1,12 +1,12 @@
 {
-  "totalSolved": 123,
-  "currentStreak": 4,
+  "totalSolved": 124,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-11",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 48,
+    "medium": 49,
     "hard": 0,
     "basic": 0
   },
@@ -133,7 +133,8 @@
     "LeetCode_Car_Fleet": true,
     "LeetCode_Decode_String": true,
     "LeetCode_Simplify_Path": true,
-    "LeetCode_Next_Greater_Element_II": true
+    "LeetCode_Next_Greater_Element_II": true,
+    "LeetCode_Remove_K_Digits": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -166,11 +167,10 @@
     "2026-10-08": 2,
     "2026-10-09": 3,
     "2026-10-10": 5,
-    "2026-10-11": 3
+    "2026-10-11": 3,
+    "2026-10-13": 1
   },
   "todayProblems": [
-    "Decode String",
-    "Simplify Path",
-    "Next Greater Element II"
+    "Remove K Digits"
   ]
 }
