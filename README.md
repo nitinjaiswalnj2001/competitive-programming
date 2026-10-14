@@ -126,3 +126,4 @@
 | 124 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 13 Oct 2026 | 11:40 am |
 | 125 | [132 Pattern](./LeetCode/Medium/132%20Pattern) | [LeetCode](https://leetcode.com/problems/132-pattern/) | Medium | 13 Oct 2026 | 01:53 pm |
 | 126 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 13 Oct 2026 | 10:58 pm |
+| 127 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 14 Oct 2026 | 11:10 pm |
