@@ -132,3 +132,4 @@
 | 130 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 15 Oct 2026 | 09:21 am |
 | 131 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 15 Oct 2026 | 10:31 pm |
 | 132 | [Partition List](./LeetCode/Medium/Partition%20List) | [LeetCode](https://leetcode.com/problems/partition-list/) | Medium | 16 Oct 2026 | 02:28 pm |
+| 133 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 21 Oct 2026 | 01:03 pm |
