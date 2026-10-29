@@ -140,3 +140,4 @@
 | 138 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 28 Oct 2026 | 10:01 pm |
 | 139 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 28 Oct 2026 | 10:43 pm |
 | 140 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 28 Oct 2026 | 10:50 pm |
+| 141 | [Construct Binary Tree from Preorder and Inorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 29 Oct 2026 | 10:54 am |

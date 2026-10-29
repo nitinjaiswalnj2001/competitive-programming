@@ -1,12 +1,12 @@
 {
-  "totalSolved": 140,
-  "currentStreak": 2,
+  "totalSolved": 141,
+  "currentStreak": 3,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-28",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 65,
+    "medium": 66,
     "hard": 0,
     "basic": 0
   },
@@ -150,7 +150,8 @@
     "LeetCode_Binary_Tree_Right_Side_View": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
-    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
+    "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -191,12 +192,10 @@
     "2026-10-21": 1,
     "2026-10-22": 2,
     "2026-10-27": 1,
-    "2026-10-28": 4
+    "2026-10-28": 4,
+    "2026-10-29": 1
   },
   "todayProblems": [
-    "Binary Tree Right Side View",
-    "Validate Binary Search Tree",
-    "Kth Smallest Element in a BST",
-    "Lowest Common Ancestor of a Binary Tree"
+    "Construct Binary Tree from Preorder and Inorder Traversal"
   ]
 }
