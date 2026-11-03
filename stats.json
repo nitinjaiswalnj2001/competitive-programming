@@ -1,12 +1,12 @@
 {
-  "totalSolved": 146,
-  "currentStreak": 1,
+  "totalSolved": 147,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-03",
-  "todayCount": 4,
+  "lastSyncDate": "2026-11-04",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 71,
+    "medium": 72,
     "hard": 0,
     "basic": 0
   },
@@ -156,7 +156,8 @@
     "LeetCode_Path_Sum_III": true,
     "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
     "LeetCode_House_Robber_III": true,
-    "LeetCode_Subsets": true
+    "LeetCode_Subsets": true,
+    "LeetCode_Subsets_II": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -200,12 +201,10 @@
     "2026-10-28": 4,
     "2026-10-29": 1,
     "2026-11-01": 1,
-    "2026-11-03": 4
+    "2026-11-03": 4,
+    "2026-11-04": 1
   },
   "todayProblems": [
-    "Path Sum III",
-    "Flatten Binary Tree to Linked List",
-    "House Robber III",
-    "Subsets"
+    "Subsets II"
   ]
 }
