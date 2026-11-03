@@ -144,3 +144,4 @@
 | 142 | [Count Good Nodes in Binary Tree](./LeetCode/Medium/Count%20Good%20Nodes%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | 01 Nov 2026 | 11:18 pm |
 | 143 | [Path Sum III](./LeetCode/Medium/Path%20Sum%20III) | [LeetCode](https://leetcode.com/problems/path-sum-iii/) | Medium | 03 Nov 2026 | 12:11 pm |
 | 144 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 03 Nov 2026 | 02:26 pm |
+| 145 | [House Robber III](./LeetCode/Medium/House%20Robber%20III) | [LeetCode](https://leetcode.com/problems/house-robber-iii/) | Medium | 03 Nov 2026 | 10:17 pm |
