@@ -1,12 +1,12 @@
 {
-  "totalSolved": 142,
+  "totalSolved": 143,
   "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-01",
+  "lastSyncDate": "2026-11-03",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 67,
+    "medium": 68,
     "hard": 0,
     "basic": 0
   },
@@ -152,7 +152,8 @@
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
     "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true,
-    "LeetCode_Count_Good_Nodes_in_Binary_Tree": true
+    "LeetCode_Count_Good_Nodes_in_Binary_Tree": true,
+    "LeetCode_Path_Sum_III": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -195,9 +196,10 @@
     "2026-10-27": 1,
     "2026-10-28": 4,
     "2026-10-29": 1,
-    "2026-11-01": 1
+    "2026-11-01": 1,
+    "2026-11-03": 1
   },
   "todayProblems": [
-    "Count Good Nodes in Binary Tree"
+    "Path Sum III"
   ]
 }
