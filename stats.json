@@ -1,12 +1,12 @@
 {
-  "totalSolved": 148,
+  "totalSolved": 149,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-04",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 73,
+    "medium": 74,
     "hard": 0,
     "basic": 0
   },
@@ -158,7 +158,8 @@
     "LeetCode_House_Robber_III": true,
     "LeetCode_Subsets": true,
     "LeetCode_Subsets_II": true,
-    "LeetCode_Combination_Sum": true
+    "LeetCode_Combination_Sum": true,
+    "LeetCode_Combination_Sum_II": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -203,10 +204,11 @@
     "2026-10-29": 1,
     "2026-11-01": 1,
     "2026-11-03": 4,
-    "2026-11-04": 2
+    "2026-11-04": 3
   },
   "todayProblems": [
     "Subsets II",
-    "Combination Sum"
+    "Combination Sum",
+    "Combination Sum II"
   ]
 }
