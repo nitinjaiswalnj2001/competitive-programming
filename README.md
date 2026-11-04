@@ -151,3 +151,4 @@
 | 149 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 04 Nov 2026 | 12:52 am |
 | 150 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 04 Nov 2026 | 01:40 am |
 | 151 | [Permutations II](./LeetCode/Medium/Permutations%20II) | [LeetCode](https://leetcode.com/problems/permutations-ii/) | Medium | 04 Nov 2026 | 01:02 pm |
+| 152 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 04 Nov 2026 | 01:31 pm |
