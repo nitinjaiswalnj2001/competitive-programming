@@ -1,12 +1,12 @@
 {
-  "totalSolved": 154,
-  "currentStreak": 2,
+  "totalSolved": 155,
+  "currentStreak": 3,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-04",
-  "todayCount": 8,
+  "lastSyncDate": "2026-11-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 79,
+    "medium": 80,
     "hard": 0,
     "basic": 0
   },
@@ -164,7 +164,8 @@
     "LeetCode_Permutations_II": true,
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Letter_Combinations_of_a_Phone_Number": true,
-    "LeetCode_Word_Search": true
+    "LeetCode_Word_Search": true,
+    "LeetCode_Palindrome_Partitioning": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -209,16 +210,10 @@
     "2026-10-29": 1,
     "2026-11-01": 1,
     "2026-11-03": 4,
-    "2026-11-04": 8
+    "2026-11-04": 8,
+    "2026-11-05": 1
   },
   "todayProblems": [
-    "Subsets II",
-    "Combination Sum",
-    "Combination Sum II",
-    "Permutations",
-    "Permutations II",
-    "Generate Parentheses",
-    "Letter Combinations of a Phone Number",
-    "Word Search"
+    "Palindrome Partitioning"
   ]
 }
