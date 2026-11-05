@@ -155,3 +155,4 @@
 | 153 | [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 04 Nov 2026 | 08:13 pm |
 | 154 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 04 Nov 2026 | 10:35 pm |
 | 155 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 05 Nov 2026 | 10:23 pm |
+| 156 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 06 Nov 2026 | 01:10 am |
