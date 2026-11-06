@@ -160,3 +160,4 @@
 | 158 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 06 Nov 2026 | 10:54 am |
 | 159 | [Course Schedule II](./LeetCode/Medium/Course%20Schedule%20II) | [LeetCode](https://leetcode.com/problems/course-schedule-ii/) | Medium | 06 Nov 2026 | 11:13 am |
 | 160 | [Pacific Atlantic Water Flow](./LeetCode/Medium/Pacific%20Atlantic%20Water%20Flow) | [LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | 06 Nov 2026 | 12:08 pm |
+| 161 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 06 Nov 2026 | 06:11 pm |
