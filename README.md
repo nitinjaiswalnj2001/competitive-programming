@@ -157,3 +157,4 @@
 | 155 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 05 Nov 2026 | 10:23 pm |
 | 156 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 06 Nov 2026 | 01:10 am |
 | 157 | [Clone Graph](./LeetCode/Medium/Clone%20Graph) | [LeetCode](https://leetcode.com/problems/clone-graph/) | Medium | 06 Nov 2026 | 02:12 am |
+| 158 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 06 Nov 2026 | 10:54 am |
