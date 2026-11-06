@@ -1,12 +1,12 @@
 {
-  "totalSolved": 158,
+  "totalSolved": 159,
   "currentStreak": 4,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-06",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 83,
+    "medium": 84,
     "hard": 0,
     "basic": 0
   },
@@ -168,7 +168,8 @@
     "LeetCode_Palindrome_Partitioning": true,
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Clone_Graph": true,
-    "LeetCode_Course_Schedule": true
+    "LeetCode_Course_Schedule": true,
+    "LeetCode_Course_Schedule_II": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -215,11 +216,12 @@
     "2026-11-03": 4,
     "2026-11-04": 8,
     "2026-11-05": 1,
-    "2026-11-06": 3
+    "2026-11-06": 4
   },
   "todayProblems": [
     "Number of Islands",
     "Clone Graph",
-    "Course Schedule"
+    "Course Schedule",
+    "Course Schedule II"
   ]
 }

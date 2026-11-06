@@ -158,3 +158,4 @@
 | 156 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 06 Nov 2026 | 01:10 am |
 | 157 | [Clone Graph](./LeetCode/Medium/Clone%20Graph) | [LeetCode](https://leetcode.com/problems/clone-graph/) | Medium | 06 Nov 2026 | 02:12 am |
 | 158 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 06 Nov 2026 | 10:54 am |
+| 159 | [Course Schedule II](./LeetCode/Medium/Course%20Schedule%20II) | [LeetCode](https://leetcode.com/problems/course-schedule-ii/) | Medium | 06 Nov 2026 | 11:13 am |
