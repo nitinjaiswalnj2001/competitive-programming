@@ -162,3 +162,4 @@
 | 160 | [Pacific Atlantic Water Flow](./LeetCode/Medium/Pacific%20Atlantic%20Water%20Flow) | [LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | 06 Nov 2026 | 12:08 pm |
 | 161 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 06 Nov 2026 | 06:11 pm |
 | 162 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 06 Nov 2026 | 06:27 pm |
+| 163 | [Evaluate Division](./LeetCode/Medium/Evaluate%20Division) | [LeetCode](https://leetcode.com/problems/evaluate-division/) | Medium | 07 Nov 2026 | 01:10 pm |
