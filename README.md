@@ -164,3 +164,4 @@
 | 162 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 06 Nov 2026 | 06:27 pm |
 | 163 | [Evaluate Division](./LeetCode/Medium/Evaluate%20Division) | [LeetCode](https://leetcode.com/problems/evaluate-division/) | Medium | 07 Nov 2026 | 01:10 pm |
 | 164 | [Network Delay Time](./LeetCode/Medium/Network%20Delay%20Time) | [LeetCode](https://leetcode.com/problems/network-delay-time/) | Medium | 07 Nov 2026 | 07:33 pm |
+| 165 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 12 Nov 2026 | 10:03 pm |
