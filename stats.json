@@ -1,12 +1,12 @@
 {
-  "totalSolved": 166,
+  "totalSolved": 167,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 91,
+    "medium": 92,
     "hard": 0,
     "basic": 0
   },
@@ -176,7 +176,8 @@
     "LeetCode_Evaluate_Division": true,
     "LeetCode_Network_Delay_Time": true,
     "LeetCode_Merge_Intervals": true,
-    "LeetCode_Insert_Interval": true
+    "LeetCode_Insert_Interval": true,
+    "LeetCode_Non-overlapping_Intervals": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -226,9 +227,10 @@
     "2026-11-06": 7,
     "2026-11-07": 2,
     "2026-11-12": 1,
-    "2026-11-13": 1
+    "2026-11-13": 2
   },
   "todayProblems": [
-    "Insert Interval"
+    "Insert Interval",
+    "Non-overlapping Intervals"
   ]
 }
