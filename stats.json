@@ -1,12 +1,12 @@
 {
-  "totalSolved": 167,
+  "totalSolved": 168,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 92,
+    "medium": 93,
     "hard": 0,
     "basic": 0
   },
@@ -177,7 +177,8 @@
     "LeetCode_Network_Delay_Time": true,
     "LeetCode_Merge_Intervals": true,
     "LeetCode_Insert_Interval": true,
-    "LeetCode_Non-overlapping_Intervals": true
+    "LeetCode_Non-overlapping_Intervals": true,
+    "LeetCode_Minimum_Number_of_Arrows_to_Burst_Balloons": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -227,10 +228,11 @@
     "2026-11-06": 7,
     "2026-11-07": 2,
     "2026-11-12": 1,
-    "2026-11-13": 2
+    "2026-11-13": 3
   },
   "todayProblems": [
     "Insert Interval",
-    "Non-overlapping Intervals"
+    "Non-overlapping Intervals",
+    "Minimum Number of Arrows to Burst Balloons"
   ]
 }
