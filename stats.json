@@ -1,12 +1,12 @@
 {
-  "totalSolved": 168,
-  "currentStreak": 2,
+  "totalSolved": 169,
+  "currentStreak": 3,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-13",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 93,
+    "medium": 94,
     "hard": 0,
     "basic": 0
   },
@@ -178,7 +178,8 @@
     "LeetCode_Merge_Intervals": true,
     "LeetCode_Insert_Interval": true,
     "LeetCode_Non-overlapping_Intervals": true,
-    "LeetCode_Minimum_Number_of_Arrows_to_Burst_Balloons": true
+    "LeetCode_Minimum_Number_of_Arrows_to_Burst_Balloons": true,
+    "LeetCode_Interval_List_Intersections": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -228,11 +229,10 @@
     "2026-11-06": 7,
     "2026-11-07": 2,
     "2026-11-12": 1,
-    "2026-11-13": 3
+    "2026-11-13": 3,
+    "2026-11-14": 1
   },
   "todayProblems": [
-    "Insert Interval",
-    "Non-overlapping Intervals",
-    "Minimum Number of Arrows to Burst Balloons"
+    "Interval List Intersections"
   ]
 }
