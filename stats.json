@@ -1,12 +1,12 @@
 {
-  "totalSolved": 172,
-  "currentStreak": 4,
+  "totalSolved": 173,
+  "currentStreak": 5,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-15",
+  "lastSyncDate": "2026-11-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 97,
+    "medium": 98,
     "hard": 0,
     "basic": 0
   },
@@ -182,7 +182,8 @@
     "LeetCode_Interval_List_Intersections": true,
     "LeetCode_Remove_Covered_Intervals": true,
     "LeetCode_Find_Right_Interval": true,
-    "LeetCode_Divide_Intervals_Into_Minimum_Number_of_Groups": true
+    "LeetCode_Divide_Intervals_Into_Minimum_Number_of_Groups": true,
+    "LeetCode_Partition_Array_into_Disjoint_Intervals": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -234,9 +235,10 @@
     "2026-11-12": 1,
     "2026-11-13": 3,
     "2026-11-14": 3,
-    "2026-11-15": 1
+    "2026-11-15": 1,
+    "2026-11-16": 1
   },
   "todayProblems": [
-    "Divide Intervals Into Minimum Number of Groups"
+    "Partition Array into Disjoint Intervals"
   ]
 }
