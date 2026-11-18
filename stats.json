@@ -1,12 +1,12 @@
 {
-  "totalSolved": 177,
+  "totalSolved": 178,
   "currentStreak": 7,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 102,
+    "medium": 103,
     "hard": 0,
     "basic": 0
   },
@@ -187,7 +187,8 @@
     "LeetCode_My_Calendar_I": true,
     "LeetCode_Set_Matrix_Zeroes": true,
     "LeetCode_Spiral_Matrix": true,
-    "LeetCode_Rotate_Image": true
+    "LeetCode_Rotate_Image": true,
+    "LeetCode_Game_of_Life": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -242,11 +243,12 @@
     "2026-11-15": 1,
     "2026-11-16": 1,
     "2026-11-17": 1,
-    "2026-11-18": 3
+    "2026-11-18": 4
   },
   "todayProblems": [
     "Set Matrix Zeroes",
     "Spiral Matrix",
-    "Rotate Image"
+    "Rotate Image",
+    "Game of Life"
   ]
 }
