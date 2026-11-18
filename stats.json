@@ -1,12 +1,12 @@
 {
-  "totalSolved": 176,
+  "totalSolved": 177,
   "currentStreak": 7,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 101,
+    "medium": 102,
     "hard": 0,
     "basic": 0
   },
@@ -186,7 +186,8 @@
     "LeetCode_Partition_Array_into_Disjoint_Intervals": true,
     "LeetCode_My_Calendar_I": true,
     "LeetCode_Set_Matrix_Zeroes": true,
-    "LeetCode_Spiral_Matrix": true
+    "LeetCode_Spiral_Matrix": true,
+    "LeetCode_Rotate_Image": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -241,10 +242,11 @@
     "2026-11-15": 1,
     "2026-11-16": 1,
     "2026-11-17": 1,
-    "2026-11-18": 2
+    "2026-11-18": 3
   },
   "todayProblems": [
     "Set Matrix Zeroes",
-    "Spiral Matrix"
+    "Spiral Matrix",
+    "Rotate Image"
   ]
 }
