@@ -178,3 +178,4 @@
 | 176 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 18 Nov 2026 | 02:16 pm |
 | 177 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 18 Nov 2026 | 08:07 pm |
 | 178 | [Game of Life](./LeetCode/Medium/Game%20of%20Life) | [LeetCode](https://leetcode.com/problems/game-of-life/) | Medium | 18 Nov 2026 | 09:07 pm |
+| 179 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 19 Nov 2026 | 08:10 pm |
