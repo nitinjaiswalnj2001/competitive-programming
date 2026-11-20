@@ -179,3 +179,4 @@
 | 177 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 18 Nov 2026 | 08:07 pm |
 | 178 | [Game of Life](./LeetCode/Medium/Game%20of%20Life) | [LeetCode](https://leetcode.com/problems/game-of-life/) | Medium | 18 Nov 2026 | 09:07 pm |
 | 179 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 19 Nov 2026 | 08:10 pm |
+| 180 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 20 Nov 2026 | 06:00 pm |
