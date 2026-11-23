@@ -182,3 +182,4 @@
 | 180 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 20 Nov 2026 | 06:00 pm |
 | 181 | [Count Square Submatrices with All Ones](./LeetCode/Medium/Count%20Square%20Submatrices%20with%20All%20Ones) | [LeetCode](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | 23 Nov 2026 | 11:07 pm |
 | 182 | [Matrix Block Sum](./LeetCode/Medium/Matrix%20Block%20Sum) | [LeetCode](https://leetcode.com/problems/matrix-block-sum/) | Medium | 23 Nov 2026 | 11:18 pm |
+| 183 | [Diagonal Traverse](./LeetCode/Medium/Diagonal%20Traverse) | [LeetCode](https://leetcode.com/problems/diagonal-traverse/) | Medium | 23 Nov 2026 | 11:23 pm |
