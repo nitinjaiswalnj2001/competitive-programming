@@ -1,12 +1,12 @@
 {
-  "totalSolved": 180,
-  "currentStreak": 9,
+  "totalSolved": 181,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-20",
+  "lastSyncDate": "2026-11-23",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 105,
+    "medium": 106,
     "hard": 0,
     "basic": 0
   },
@@ -190,7 +190,8 @@
     "LeetCode_Rotate_Image": true,
     "LeetCode_Game_of_Life": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
-    "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true
+    "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true,
+    "LeetCode_Count_Square_Submatrices_with_All_Ones": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -247,9 +248,10 @@
     "2026-11-17": 1,
     "2026-11-18": 4,
     "2026-11-19": 1,
-    "2026-11-20": 1
+    "2026-11-20": 1,
+    "2026-11-23": 1
   },
   "todayProblems": [
-    "Kth Smallest Element in a Sorted Matrix"
+    "Count Square Submatrices with All Ones"
   ]
 }
