@@ -1,12 +1,12 @@
 {
-  "totalSolved": 181,
+  "totalSolved": 182,
   "currentStreak": 1,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 106,
+    "medium": 107,
     "hard": 0,
     "basic": 0
   },
@@ -191,7 +191,8 @@
     "LeetCode_Game_of_Life": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
     "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true,
-    "LeetCode_Count_Square_Submatrices_with_All_Ones": true
+    "LeetCode_Count_Square_Submatrices_with_All_Ones": true,
+    "LeetCode_Matrix_Block_Sum": true
   },
   "activityHistory": {
     "2026-09-01": 4,
@@ -249,9 +250,10 @@
     "2026-11-18": 4,
     "2026-11-19": 1,
     "2026-11-20": 1,
-    "2026-11-23": 1
+    "2026-11-23": 2
   },
   "todayProblems": [
-    "Count Square Submatrices with All Ones"
+    "Count Square Submatrices with All Ones",
+    "Matrix Block Sum"
   ]
 }
